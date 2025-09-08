@@ -35,6 +35,9 @@ Me apasiona el desarrollo de software, la optimización de procesos y el desplie
 
 ![Streak Stats](https://streak-stats.demolab.com?user=tinoco123&theme=tokyonight&hide_border=true)  
 
+<!--START_SECTION:start-->
+<!--END_SECTION:last_update-->
+
 ---
 
 ## 📬 Conéctate conmigo  
