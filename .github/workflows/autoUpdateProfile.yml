@@ -1,0 +1,18 @@
+name: Actualizar mi perfil de githun
+
+on:
+  schedule:
+    - cron:  "* */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recent GitHub Activity - Profile Readme
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
