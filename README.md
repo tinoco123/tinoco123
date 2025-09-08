@@ -27,7 +27,7 @@ Me apasiona el desarrollo de software, la optimización de procesos y el desplie
 
 ---
 
-## 📈 Estadísticas de GitHub  
+## 📈 My stuff
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tinoco123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 
@@ -35,8 +35,8 @@ Me apasiona el desarrollo de software, la optimización de procesos y el desplie
 
 ![Streak Stats](https://streak-stats.demolab.com?user=tinoco123&theme=tokyonight&hide_border=true)  
 
-<!--START_SECTION:start-->
-<!--END_SECTION:last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
